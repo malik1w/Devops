@@ -1,0 +1,13 @@
+
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+h	java:S116"SRename this field "Base_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‰¸Õ
+<
+java:S1170"!Make this final field static too.(ŽÜ¹æûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(›æŒÁ
+U
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.( ÇíO
+[
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(’ñ¡ÿÿÿÿÿ

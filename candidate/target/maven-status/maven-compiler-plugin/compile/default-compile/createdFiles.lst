@@ -1,0 +1,6 @@
+com\esprit\microservice\candidateservice\controller\CandidatRestAPI.class
+com\esprit\microservice\candidateservice\repository\CandidatRepository.class
+com\esprit\microservice\candidateservice\model\Candidat.class
+com\esprit\microservice\candidateservice\services\CandidatService.class
+com\esprit\microservice\candidateservice\model\Job.class
+com\esprit\microservice\candidateservice\CandidateApplication.class
